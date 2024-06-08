@@ -16,10 +16,6 @@ Requires  `python>=3.8`
 !git clone https://github.com/geekyutao/Inpaint-Anything.git
 ```
 
-    Cloning into 'Inpaint-Anything'
-    
-
-
 ```python
 python -m pip install torch torchvision torchaudio
 python -m pip install -e segment_anything
